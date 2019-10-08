@@ -1,7 +1,42 @@
 body{
-    background: #d9ffb3;
+    background: #99e6ff;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+h1{
+    color: #9966ff;
+}
+p{
+    color: #508099;
+}
+h4{
+    color: darkblue;
+}
+.gen{
+    margin-bottom: 35px;
+    margin-bottom: px;
+    padding: 5px;
+    background:#ffffff;
+    border: groove black 2px;
+}
+.aboutWrapper{
+    background:#476b6b;
+    width:100%;
+    height:40px;
+    margin-bottom: 20px;
+}
+.navWrapper_1{
+    width: 40%;
+    height: 100%;
+    background:#94b8b8;
+}
+.navWrapper_2{
+    width: 20%;
+    height: 100%;
+    background:#669999;
+}
+.navWrapper_3{
+    width: 40%;
+    height: 100%;
+    background:#94b8b8;
 }
 
-p{
-    font-family: "Comic Sans MS"
-}
