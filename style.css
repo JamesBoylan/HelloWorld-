@@ -1,6 +1,7 @@
 body{
     background: #99e6ff;
     font-family: 'Roboto Condensed', sans-serif;
+    margin: 0px;
 }
 h1{
     color: #9966ff;
@@ -21,7 +22,7 @@ h4{
 .aboutWrapper{
     background:#476b6b;
     width:100%;
-    height:40px;
+    height:60px;
     margin-bottom: 20px;
 }
 .navWrapper_1{
@@ -39,4 +40,7 @@ h4{
     height: 100%;
     background:#94b8b8;
 }
-
+#title{
+    text-align: center;
+    font-size: 15px;
+}
