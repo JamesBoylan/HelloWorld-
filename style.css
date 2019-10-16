@@ -117,4 +117,19 @@ li a {
 li a:hover {
     background-color: royalblue;
 }
+.resume {
+    text-align: center;
+    border: 5px groove navy;
+    width: 500px;
+    height: 750px;
+    position: center;
+}
+.doc{
+    width: 490px;
+    height: 700px;
+    text-align: center;
+}
+.bigres {
+    margin-left: 500px;
+}
 
