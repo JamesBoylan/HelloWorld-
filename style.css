@@ -130,6 +130,16 @@ li a:hover {
     text-align: center;
 }
 .bigres {
-    margin-left: 500px;
+    position: absolute;
+    left: 50%;
+    margin-top: 25%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%);
+    height: 100%;
+}
+#fquick{
+    background: #6C596E;
+    list-style-type: initial; 
+    overflow: left;
 }
 
